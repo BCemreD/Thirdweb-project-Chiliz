@@ -1,3 +1,7 @@
+[After run dev](/blob/main/images/2.1.jpg)
+[After run dev](/blob/main/images/2.1.png)
+
+
 # NFT Marketplace Complete
 
 Complete version of the NFT Marketplace in CHZ network, using Thirdweb
