@@ -1,4 +1,6 @@
 [After run dev](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.1.jpg)
+
+
 [After run dev](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.1.png)
 
 
