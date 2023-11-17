@@ -1,8 +1,19 @@
 ![After run dev](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.1.jpg)
 
 
-![After run dev](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.1.png)
+![After run dev](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.2.jpg)
 
+![Listing NFT](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.3.jpg)
+
+![Deploying](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.4.jpg)
+
+![Deploying](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.5.jpg)
+
+![NFT Details](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.6.jpg)
+
+![Buy NFT](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.7.jpg)
+
+![Already yours](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.8.jpg)
 
 # NFT Marketplace Complete
 
