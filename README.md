@@ -1,18 +1,20 @@
+# RiseIn - Chiliz Thirdweb Project
+ After run dev
 ![After run dev](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.1.jpg)
 
 
 ![After run dev](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.2.jpg)
-
+ Listing NFT
 ![Listing NFT](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.3.jpg)
-
+ Deploying
 ![Deploying](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.4.jpg)
 
 ![Deploying](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.5.jpg)
-
+ NFT Details
 ![NFT Details](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.6.jpg)
-
+ Buy NFT
 ![Buy NFT](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.7.jpg)
-
+ Already yours
 ![Already yours](https://github.com/BCemreD/Thirdweb-project-Chiliz/blob/main/images/2.8.jpg)
 
 # NFT Marketplace Complete
